@@ -13,7 +13,10 @@ def main():
             continue
 
         for file in files:
-            filename, extention = os.path.splitext(file)
+            filename, _ = os.path.splitext(file)
+            newFilenameDirectory = root + "\\" + filename
+            if filename == "README":
+                continue
             fileSource = root + "/" + file
             newFilenameDirectory = root + "/" + filename
             if os.path.isdir(newFilenameDirectory):
