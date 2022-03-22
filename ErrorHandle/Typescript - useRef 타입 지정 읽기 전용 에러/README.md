@@ -96,3 +96,52 @@ ref.current = 10; // Error. .current는 읽기 전용
 const ref = useRef<number>();
 ref.current = 10; // 정상 동작
 ```
+
+<br />
+
+# 5. DOM Element에 ref Prop으로 넘겨줄 때
+
+- 위 사항에 대해서는 이해가 됐지만, .current를 값으로 사용하는 것이 아닌 DOM Element의 ref에 할당할 때 undefined 값을 초기값으로 넣으니 또 다른 에러가 발생했다.
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/85148549/159483476-99009dbb-fe75-4629-af0a-17a35e424518.png">
+</div>
+
+- `T | undefined` 타입은 `T | null` 타입에 할당할 수 없다고 뜬다.
+- 마찬가지로 Element에서 prop으로 받을 수 있는 ref를 타고 들어가보자.
+
+```tsx
+interface ClassAttributes<T> extends Attributes {
+    ref?: LegacyRef<T> | undefined;
+}
+type LegacyRef<T> = string | Ref<T>;
+type Ref<T> = RefCallback<T> | RefObject<T> | null;
+type RefCallback<T> = (instance: T | null) => void;
+```
+
+- ref는 `LegacyRef<T>` 타입의 prop을 넘겨줄 수 있다고 나와있는데 하나씩 순서대로 들어가보면
+    - `LegacyRef`는 string이나 Ref 타입
+    - `Ref`는 RefCallback이나 RefObject이나 null 타입 이어야 한다.
+
+<br />
+
+- 결국 ref는 RefCallback | RefObject | string | null | undefined 중 하나여야 한다.
+- 여기서 RefCallback은 Ref 형태가 아닌 Callback 함수에 대한 정의인 것처럼 보이므로 제외하면 남는 것은 RefObject인데, 어디서 많이 본 형태다.
+
+<br />
+
+```tsx
+interface RefObject<T> {
+    readonly current: T | null;
+}
+```
+
+- 아까 초기 값에 null 값을 넣어서 읽기 전용이 되어 .current 프로퍼티에 값을 할당할 수 없게 되어 MutableRefObject 형태로 사용하기 위해 undefined 값으로 초기값을 넣어줬었다.
+- 그런데 ref prop으로 넘겨주려는 데이터의 형태는 RefObject 형태여야 하고, 이는 초기값으로 null을 작성해줘야 사용할 수 있게 된다.
+
+<br />
+
+# 정리
+
+- .current 프로퍼티에 값을 할당해서 값이 변동되어도 렌더링이 되지 않도록 하는 변수처럼 사용하려면 MutableRefObject 형태의 useRef를 사용해야 하므로 초기값으로 undefined를 할당한다.
+- DOM Element에 ref prop을 넘겨주려먼 RefObject 형태의 useRef를 사용해야 하므로 초기값으로 null을 할당한다.
