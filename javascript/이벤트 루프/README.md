@@ -2,7 +2,7 @@
 
 ## 1. 자바스크립트는 Single Thread로 동작한다.
 
-- 자바스크립트 엔진의 Call Stack은 하나만 존재하고 실제고 Single Thread로 동작한다.
+- 자바스크립트 엔진의 Call Stack은 하나만 존재하고 Single Thread로 동작한다.
     - 그렇다면 브라우저에서 이벤트, 애니메이션 등을 어떻게 처리할 수 있을까?
 
 <br />

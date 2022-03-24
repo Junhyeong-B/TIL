@@ -1,8 +1,8 @@
 # 9장 타입 변환과 단축 평가
 
-1. 개발자가 의도하여 타입을 변환하는 것을 **명시적 타입 변환(explicit coercion)** 또는 **타입 캐스팅(type casting)**이라 하고,
+1. 개발자가 의도하여 타입을 변환하는 것을 **명시적 타입 변환(explicit coercion)** 또는 **타입 캐스팅(type casting)** 이라 하고,
     
-    의도하지 않은 타입 변환은 **암묵적 타입 변환(implicit coercion)** 또는 타입 **강제 변환(type coercion)**이라 한다.
+    의도하지 않은 타입 변환은 **암묵적 타입 변환(implicit coercion)** 또는 타입 **강제 변환(type coercion)** 이라 한다.
     
 
 ```jsx
