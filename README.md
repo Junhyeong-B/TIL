@@ -15,6 +15,7 @@
 ### Typescript
 - [Type alias VS Interface](./Typescript/Type%20alias%20VS%20Interface/README.md)
 ### javascript
+- [Garbage Collection](./javascript/Garbage%20Collection/README.md)
 - [Promise 내장 함수들](./javascript/Promise%20%EB%82%B4%EC%9E%A5%20%ED%95%A8%EC%88%98%EB%93%A4/README.md)
 - [forEach와 비동기 함수](./javascript/forEach%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%95%A8%EC%88%98/README.md)
 - [innerHTML vs insertAdjacentHTML vs appendChild](./javascript/innerHTML%20vs%20insertAdjacentHTML%20vs%20appendChild/README.md)
