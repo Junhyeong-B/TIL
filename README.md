@@ -12,6 +12,8 @@
 ### React
 - [React.lazy, Suspense를 사용한 Code Splitting](./React/React.lazy%2C%20Suspense%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20Code%20Splitting/README.md)
 - [React가 DOM, Virtual DOM을 비교하는 방법](./React/React%EA%B0%80%20DOM%2C%20Virtual%20DOM%EC%9D%84%20%EB%B9%84%EA%B5%90%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/README.md)
+### Typescript
+- [Type alias VS Interface](./Typescript/Type%20alias%20VS%20Interface/README.md)
 ### javascript
 - [Promise 내장 함수들](./javascript/Promise%20%EB%82%B4%EC%9E%A5%20%ED%95%A8%EC%88%98%EB%93%A4/README.md)
 - [forEach와 비동기 함수](./javascript/forEach%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%95%A8%EC%88%98/README.md)
