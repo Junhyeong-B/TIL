@@ -9,6 +9,7 @@
 - [switch문, 타입스크립트에서 Error 핸들링 팁](./ErrorHandle/switch%EB%AC%B8%2C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C%20Error%20%ED%95%B8%EB%93%A4%EB%A7%81%20%ED%8C%81/README.md)
 ### GitHub
 - [GitHub Actions](./GitHub/GitHub%20Actions/README.md)
+- [Git이란](./GitHub/Git%EC%9D%B4%EB%9E%80/README.md)
 ### React
 - [React.lazy, Suspense를 사용한 Code Splitting](./React/React.lazy%2C%20Suspense%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20Code%20Splitting/README.md)
 - [React가 DOM, Virtual DOM을 비교하는 방법](./React/React%EA%B0%80%20DOM%2C%20Virtual%20DOM%EC%9D%84%20%EB%B9%84%EA%B5%90%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/README.md)
