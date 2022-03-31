@@ -10,6 +10,8 @@
 ### GitHub
 - [GitHub Actions](./GitHub/GitHub%20Actions/README.md)
 - [Git이란](./GitHub/Git%EC%9D%B4%EB%9E%80/README.md)
+### NextJS
+- [getServerSideProps vs getStaticProps](./NextJS/getServerSideProps%20vs%20getStaticProps/README.md)
 ### React
 - [React.lazy, Suspense를 사용한 Code Splitting](./React/React.lazy%2C%20Suspense%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20Code%20Splitting/README.md)
 - [React가 DOM, Virtual DOM을 비교하는 방법](./React/React%EA%B0%80%20DOM%2C%20Virtual%20DOM%EC%9D%84%20%EB%B9%84%EA%B5%90%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/README.md)
@@ -23,6 +25,7 @@
 - [new CustomEvent()로 Route 처리하기](./javascript/new%20CustomEvent%28%29%EB%A1%9C%20Route%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0/README.md)
 - [숫자 타입 부동소수점](./javascript/%EC%88%AB%EC%9E%90%20%ED%83%80%EC%9E%85%20%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90/README.md)
 - [이벤트 루프](./javascript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%A3%A8%ED%94%84/README.md)
+- [정규표현식으로 특정 문자열 추출하고 치환하기](./javascript/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9C%BC%EB%A1%9C%20%ED%8A%B9%EC%A0%95%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B6%94%EC%B6%9C%ED%95%98%EA%B3%A0%20%EC%B9%98%ED%99%98%ED%95%98%EA%B8%B0/README.md)
 ### javascript-deep-dive
 - [10장 객체 리터럴](./javascript-deep-dive/10%EC%9E%A5%20%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4/README.md)
 - [11장 원시 값과 객체의 비교](./javascript-deep-dive/11%EC%9E%A5%20%EC%9B%90%EC%8B%9C%20%EA%B0%92%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EB%B9%84%EA%B5%90/README.md)
