@@ -13,6 +13,8 @@
 ### NextJS
 - [getServerSideProps vs getStaticProps](./NextJS/getServerSideProps%20vs%20getStaticProps/README.md)
 ### React
+- [Flux 패턴](./React/Flux%20%ED%8C%A8%ED%84%B4/README.md)
+- [React-Redux](./React/React-Redux/README.md)
 - [React.lazy, Suspense를 사용한 Code Splitting](./React/React.lazy%2C%20Suspense%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20Code%20Splitting/README.md)
 - [React가 DOM, Virtual DOM을 비교하는 방법](./React/React%EA%B0%80%20DOM%2C%20Virtual%20DOM%EC%9D%84%20%EB%B9%84%EA%B5%90%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/README.md)
 ### Typescript
