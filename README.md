@@ -9,6 +9,7 @@
 - [switch문, 타입스크립트에서 Error 핸들링 팁](./ErrorHandle/switch%EB%AC%B8%2C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C%20Error%20%ED%95%B8%EB%93%A4%EB%A7%81%20%ED%8C%81/README.md)
 ### GitHub
 - [GitHub Actions](./GitHub/GitHub%20Actions/README.md)
+- [GitHub Actions - 2](./GitHub/GitHub%20Actions%20-%202/README.md)
 - [Git이란](./GitHub/Git%EC%9D%B4%EB%9E%80/README.md)
 ### NextJS
 - [getServerSideProps vs getStaticProps](./NextJS/getServerSideProps%20vs%20getStaticProps/README.md)
