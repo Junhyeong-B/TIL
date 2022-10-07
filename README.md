@@ -38,6 +38,8 @@
 
 ### Effective Typescript
 - [아이템 28 유효한 상태만 표현하는 타입을 지향하기](./%EC%B1%85/Effective%20Typescript/%EC%95%84%EC%9D%B4%ED%85%9C%2028%20%EC%9C%A0%ED%9A%A8%ED%95%9C%20%EC%83%81%ED%83%9C%EB%A7%8C%20%ED%91%9C%ED%98%84%ED%95%98%EB%8A%94%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%A7%80%ED%96%A5%ED%95%98%EA%B8%B0/README.md)
+- [아이템 29 사용할 때는 너그럽게, 생성할 때는 엄격하게](./%EC%B1%85/Effective%20Typescript/%EC%95%84%EC%9D%B4%ED%85%9C%2029%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%EB%8A%94%20%EB%84%88%EA%B7%B8%EB%9F%BD%EA%B2%8C%2C%20%EC%83%9D%EC%84%B1%ED%95%A0%20%EB%95%8C%EB%8A%94%20%EC%97%84%EA%B2%A9%ED%95%98%EA%B2%8C/README.md)
+- [아이템 30 문서에 타입 정보를 쓰지 않기](./%EC%B1%85/Effective%20Typescript/%EC%95%84%EC%9D%B4%ED%85%9C%2030%20%EB%AC%B8%EC%84%9C%EC%97%90%20%ED%83%80%EC%9E%85%20%EC%A0%95%EB%B3%B4%EB%A5%BC%20%EC%93%B0%EC%A7%80%20%EC%95%8A%EA%B8%B0/README.md)
 
 ### javascript-deep-dive
 - [10장 객체 리터럴](./%EC%B1%85/javascript-deep-dive/10%EC%9E%A5%20%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4/README.md)
