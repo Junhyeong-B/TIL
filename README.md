@@ -36,6 +36,9 @@
 - [웹 접근성 - ARIA(Accessible Rich Internet Applications)](./%EC%9B%B9/%EC%9B%B9%20%EC%A0%91%EA%B7%BC%EC%84%B1%20-%20ARIA%28Accessible%20Rich%20Internet%20Applications%29/README.md)
 ### 책
 
+### Effective Typescript
+- [아이템 28 유효한 상태만 표현하는 타입을 지향하기](./%EC%B1%85/Effective%20Typescript/%EC%95%84%EC%9D%B4%ED%85%9C%2028%20%EC%9C%A0%ED%9A%A8%ED%95%9C%20%EC%83%81%ED%83%9C%EB%A7%8C%20%ED%91%9C%ED%98%84%ED%95%98%EB%8A%94%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%A7%80%ED%96%A5%ED%95%98%EA%B8%B0/README.md)
+
 ### javascript-deep-dive
 - [10장 객체 리터럴](./%EC%B1%85/javascript-deep-dive/10%EC%9E%A5%20%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4/README.md)
 - [11장 원시 값과 객체의 비교](./%EC%B1%85/javascript-deep-dive/11%EC%9E%A5%20%EC%9B%90%EC%8B%9C%20%EA%B0%92%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EB%B9%84%EA%B5%90/README.md)
