@@ -21,7 +21,7 @@
 ### Typescript
 - [Type alias VS Interface](./Typescript/Type%20alias%20VS%20Interface/README.md)
 ### d3
-- [d3를 이용해 코인 거래 차트 만들기](./d3/d3%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20%EC%BD%94%EC%9D%B8%20%EA%B1%B0%EB%9E%98%20%EC%B0%A8%ED%8A%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md)
+- [d3를 이용해 데이터 시각화 해보기](./d3/d3%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%ED%95%B4%EB%B3%B4%EA%B8%B0/README.md)
 ### javascript
 - [Garbage Collection](./javascript/Garbage%20Collection/README.md)
 - [Promise 내장 함수들](./javascript/Promise%20%EB%82%B4%EC%9E%A5%20%ED%95%A8%EC%88%98%EB%93%A4/README.md)
