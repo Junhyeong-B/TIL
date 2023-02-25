@@ -19,6 +19,7 @@
 - [React-Redux](./React/React-Redux/README.md)
 - [React.lazy, Suspense를 사용한 Code Splitting](./React/React.lazy%2C%20Suspense%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20Code%20Splitting/README.md)
 - [React가 DOM, Virtual DOM을 비교하는 방법](./React/React%EA%B0%80%20DOM%2C%20Virtual%20DOM%EC%9D%84%20%EB%B9%84%EA%B5%90%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/README.md)
+- [전역에 변수를 선언하면 제대로 Garbage Collection 될까](./React/%EC%A0%84%EC%97%AD%EC%97%90%20%EB%B3%80%EC%88%98%EB%A5%BC%20%EC%84%A0%EC%96%B8%ED%95%98%EB%A9%B4%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20Garbage%20Collection%20%EB%90%A0%EA%B9%8C/README.md)
 ### Typescript
 - [Type alias VS Interface](./Typescript/Type%20alias%20VS%20Interface/README.md)
 ### d3
