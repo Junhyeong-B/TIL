@@ -26,6 +26,7 @@
 - [d3를 이용해 데이터 시각화 해보기](./d3/d3%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%ED%95%B4%EB%B3%B4%EA%B8%B0/README.md)
 ### javascript
 - [Garbage Collection](./javascript/Garbage%20Collection/README.md)
+- [Intersection Observer로 무한스크롤 UI 구현하기](./javascript/Intersection%20Observer%EB%A1%9C%20%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4%20UI%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/README.md)
 - [Promise 내장 함수들](./javascript/Promise%20%EB%82%B4%EC%9E%A5%20%ED%95%A8%EC%88%98%EB%93%A4/README.md)
 - [forEach와 비동기 함수](./javascript/forEach%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%95%A8%EC%88%98/README.md)
 - [innerHTML vs insertAdjacentHTML vs appendChild](./javascript/innerHTML%20vs%20insertAdjacentHTML%20vs%20appendChild/README.md)
