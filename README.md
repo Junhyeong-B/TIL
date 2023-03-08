@@ -14,6 +14,7 @@
 ### NextJS
 - [getServerSideProps vs getStaticProps](./NextJS/getServerSideProps%20vs%20getStaticProps/README.md)
 ### React
+- [Compound Pattern으로 정렬 가능한 Table 만들기](./React/Compound%20Pattern%EC%9C%BC%EB%A1%9C%20%EC%A0%95%EB%A0%AC%20%EA%B0%80%EB%8A%A5%ED%95%9C%20Table%20%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md)
 - [Flux 패턴](./React/Flux%20%ED%8C%A8%ED%84%B4/README.md)
 - [React - children 사이에 split element 넣기](./React/React%20-%20children%20%EC%82%AC%EC%9D%B4%EC%97%90%20split%20element%20%EB%84%A3%EA%B8%B0/README.md)
 - [React-Redux](./React/React-Redux/README.md)
