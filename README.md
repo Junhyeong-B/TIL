@@ -23,6 +23,7 @@
 - [전역에 변수를 선언하면 제대로 Garbage Collection 될까](./React/%EC%A0%84%EC%97%AD%EC%97%90%20%EB%B3%80%EC%88%98%EB%A5%BC%20%EC%84%A0%EC%96%B8%ED%95%98%EB%A9%B4%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20Garbage%20Collection%20%EB%90%A0%EA%B9%8C/README.md)
 ### Test
 - [Jest 기초](./Test/Jest%20%EA%B8%B0%EC%B4%88/README.md)
+- [Jest 라이프 사이클, 디버깅, 커버리지](./Test/Jest%20%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%82%AC%EC%9D%B4%ED%81%B4%2C%20%EB%94%94%EB%B2%84%EA%B9%85%2C%20%EC%BB%A4%EB%B2%84%EB%A6%AC%EC%A7%80/README.md)
 ### Typescript
 - [Type alias VS Interface](./Typescript/Type%20alias%20VS%20Interface/README.md)
 ### d3
